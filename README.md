@@ -4,7 +4,7 @@
 
 🔭 I love to explore everything 😁
 
-⏳ Experimenting with JS and learning Unreal
+⏳ Experimenting with Three.JS and learning Unreal
 
 🔬 Always ready to collaborate for Dev Experiments
 
